@@ -1,2 +1,2 @@
 # machine-learning-projects
-# the repository contains a wide range of machine learning and deep learning projects 
+# the repository contains machine learning projects
